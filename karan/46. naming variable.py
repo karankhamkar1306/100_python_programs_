@@ -1,0 +1,2 @@
+type = "box"
+print(type)
